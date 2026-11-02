@@ -8,7 +8,7 @@
     "maintainer": "Thomas Castleman <batcastle@draugeros.org>",
     "icon": "icon.jpg",
     "hooks": {
-        "crunchyroll": {
+        "snakey": {
             "apparmor": "snakey.apparmor",
             "desktop": "snakey.desktop"
         }
