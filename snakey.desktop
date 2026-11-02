@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Snakey
+Comment=Google Snake Game for Ubuntu Touch
+Exec=webapp-container --enable-media-hub-audio --webappUrlPatterns="https://www.google.com/fbx?fbx=snake_arcade" https://www.google.com/fbx?fbx=snake_arcade
+Icon=icon.jpg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Lomiri-Touch=true

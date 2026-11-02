@@ -1,0 +1,8 @@
+clickable_minimum_required: 8.8.0
+builder: pure
+
+framework: ubuntu-touch-24.04-1.x
+ignore:
+  - README.md
+  - .git
+  - .gitignore

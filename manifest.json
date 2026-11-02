@@ -1,0 +1,16 @@
+{
+    "name": "snakey.batcastle",
+    "title": "Snakey",
+    "description": "Google Snake Game for Ubuntu Touch",
+    "framework": "@CLICK_FRAMEWORK@",
+    "architecture": "@CLICK_ARCH@",
+    "version": "1.0.0",
+    "maintainer": "Thomas Castleman <batcastle@draugeros.org>",
+    "icon": "icon.jpg",
+    "hooks": {
+        "crunchyroll": {
+            "apparmor": "snakey.apparmor",
+            "desktop": "snakey.desktop"
+        }
+    }
+}
